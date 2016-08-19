@@ -1,11 +1,11 @@
 {
-  "name": "tabdown",
-  "version": "0.1.0",
+  "name": "tabdown-kfatehi",
+  "version": "0.2.0",
   "description": "An indentation-based tree markup language.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/freshdried/tabdown.git"
+    "url": "git://github.com/kfatehi/tabdown.git"
   },
   "devDependencies": {
     "babel-core": "^5.4.3",
@@ -14,9 +14,9 @@
   "author": "Sean Lee <freshdried@gmail.com> (http://sean.lee.mx)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freshdried/tabdown/issues"
+    "url": "https://github.com/kfatehi/tabdown/issues"
   },
-  "homepage": "https://github.com/freshdried/tabdown",
+  "homepage": "https://github.com/kfatehi/tabdown",
   "scripts": {
     "test": "mocha --compilers js:babel/register",
     "gendocs": "docco lib/*.js"
